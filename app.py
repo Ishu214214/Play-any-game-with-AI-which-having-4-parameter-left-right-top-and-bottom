@@ -499,9 +499,3 @@ cv2.destroyAllWindows()
 
 
 
-
-
-"""
-Link online playing game
-https://poki.com/en/g/subway-surfers 
-"""
